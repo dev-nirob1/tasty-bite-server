@@ -1,29 +1,52 @@
 [
   {
+    "id": 591357,
     "name": "Ángel León",
     "bio": "Ángel León, also known as the 'Chef of the Sea,' is a renowned Spanish chef recognized for his expertise in seafood and sustainable marine-focused cuisine.",
     "yearsOfExperience": 15,
     "likes": 1000,
     "numberOfRecipes": 30,
-    "picture": "angel_leon.jpg",
+    "picture": "https://i.ibb.co/hL9j0wr/leon-2.jpg",
+    "banner_picture": "https://i.ibb.co/7NhZNt8/ngel-Le-n.jpg",
     "recipes": [
       {
         "name": "Seafood Paella",
-        "ingredients": ["Rice", "Seafood mix", "Onion", "Tomato", "Garlic"],
+        "recipe_picture": "https://i.ibb.co/4Nn59cV/Paella-7.jpg",
+        "ingredients": [
+          "Rice",
+          "Seafood mix",
+          "Onion",
+          "Tomato",
+          "Garlic"
+        ],
         "cookingMethod": "1. Sauté onion and garlic. 2. Add tomato and rice. 3. Add seafood mix and cook until rice is tender.",
         "rating": 4.8,
         "favorite": false
       },
       {
         "name": "Grilled Octopus",
-        "ingredients": ["Octopus", "Olive oil", "Lemon", "Salt", "Paprika"],
+        "recipe_picture": "https://i.ibb.co/xS12vRp/grilled-octopus-59-2-1024x683.jpg",
+        "ingredients": [
+          "Octopus",
+          "Olive oil",
+          "Lemon",
+          "Salt",
+          "Paprika"
+        ],
         "cookingMethod": "1. Boil octopus until tender. 2. Grill octopus with olive oil. 3. Sprinkle with lemon, salt, and paprika.",
         "rating": 4.5,
         "favorite": true
       },
       {
         "name": "Seafood Risotto",
-        "ingredients": ["Arborio rice", "Mixed seafood", "White wine", "Onion", "Parmesan cheese"],
+        "recipe_picture": "https://i.ibb.co/CtFGNC8/Seafood-Risotto.jpg",
+        "ingredients": [
+          "Arborio rice",
+          "Mixed seafood",
+          "White wine",
+          "Onion",
+          "Parmesan cheese"
+        ],
         "cookingMethod": "1. Sauté onion and rice. 2. Add white wine and cook until absorbed. 3. Gradually add broth and cook until rice is creamy. 4. Stir in mixed seafood and Parmesan cheese.",
         "rating": 4.6,
         "favorite": false
@@ -31,30 +54,53 @@
     ]
   },
   {
+    "id": 822486,
     "name": "Paco Roncero",
     "bio": "Paco Roncero is a renowned Spanish chef known for his innovative techniques and culinary expertise.",
     "yearsOfExperience": 20,
     "likes": 800,
     "numberOfRecipes": 25,
-    "picture": "paco_roncero.jpg",
+    "picture": "https://i.ibb.co/WGM5vjc/madrid-citapricelessgastro-pacoroncero-L.jpg",
+    "banner_picture": "https://i.ibb.co/FmNnYBy/download.jpg",
     "recipes": [
       {
         "name": "Gazpacho",
-        "ingredients": ["Tomatoes", "Cucumber", "Bell pepper", "Onion", "Garlic"],
+        "recipe_picture": "https://i.ibb.co/2Pgsy3v/Gazpacho.jpg",
+        "ingredients": [
+          "Tomatoes",
+          "Cucumber",
+          "Bell pepper",
+          "Onion",
+          "Garlic"
+        ],
         "cookingMethod": "1. Blend all ingredients until smooth. 2. Chill in the refrigerator. 3. Serve cold.",
         "rating": 4.7,
         "favorite": false
       },
       {
         "name": "Sous Vide Lamb",
-        "ingredients": ["Lamb chops", "Rosemary", "Garlic", "Olive oil", "Salt"],
+        "recipe_picture": "https://i.ibb.co/G3YKKBm/Sous-Vide-Lamb.webp",
+        "ingredients": [
+          "Lamb chops",
+          "Rosemary",
+          "Garlic",
+          "Olive oil",
+          "Salt"
+        ],
         "cookingMethod": "1. Season lamb chops with salt, rosemary, and garlic. 2. Vacuum seal and cook in a water bath. 3. Sear on a hot pan with olive oil.",
         "rating": 4.6,
         "favorite": true
       },
       {
         "name": "Chocolate Lava Cake",
-        "ingredients": ["Dark chocolate", "Butter", "Eggs", "Sugar", "Flour"],
+        "recipe_picture": "https://i.ibb.co/t32v27H/chocolate-molten-lava-cakes.jpg",
+        "ingredients": [
+          "Dark chocolate",
+          "Butter",
+          "Eggs",
+          "Sugar",
+          "Flour"
+        ],
         "cookingMethod": "1. Melt chocolate and butter. 2. Whisk eggs and sugar. 3. Combine with melted chocolate. 4. Fold in flour. 5. Bake until the edges are set but the center is still soft.",
         "rating": 4.9,
         "favorite": true
@@ -62,30 +108,53 @@
     ]
   },
   {
+    "id": 123789,
     "name": "Carme Ruscalleda",
     "bio": "Carme Ruscalleda is a renowned Spanish chef known for her innovative approach to Catalan cuisine.",
     "yearsOfExperience": 30,
     "likes": 1200,
     "numberOfRecipes": 40,
-    "picture": "carme_ruscalleda.jpg",
+    "picture": "https://i.ibb.co/0Z60XDk/carme-ruscalleda-large.jpg",
+    "banner_picture": "https://i.ibb.co/zZHDNf6/carme-ruscalleda-en-la-cocina-de-sant.jpg",
     "recipes": [
       {
         "name": "Catalan Cream",
-        "ingredients": ["Milk", "Egg yolks", "Sugar", "Cornstarch", "Cinnamon"],
+        "recipe_picture": "https://i.ibb.co/JnYtVBp/Catalan-Cream.jpg",
+        "ingredients": [
+          "Milk",
+          "Egg yolks",
+          "Sugar",
+          "Cornstarch",
+          "Cinnamon"
+        ],
         "cookingMethod": "1. Heat milk with cinnamon. 2. Mix egg yolks, sugar, and cornstarch. 3. Slowly add hot milk to the egg mixture while whisking. 4. Cook over medium heat until thickened. 5. Serve chilled.",
         "rating": 4.9,
         "favorite": true
       },
       {
         "name": "Paella",
-        "ingredients": ["Rice", "Chicken", "Rabbit", "Tomato", "Bell pepper"],
+        "recipe_picture": "https://i.ibb.co/QcD4zkq/84137-easy-paella.jpg",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Rabbit",
+          "Tomato",
+          "Bell pepper"
+        ],
         "cookingMethod": "1. Sauté chicken and rabbit. 2. Add tomato and bell pepper. 3. Add rice and broth. 4. Cook until rice is tender and a crust forms at the bottom.",
         "rating": 4.7,
         "favorite": false
       },
       {
         "name": "Crema Catalana",
-        "ingredients": ["Milk", "Egg yolks", "Sugar", "Cornstarch", "Lemon zest"],
+        "recipe_picture": "https://i.ibb.co/rfJdYkR/0-Gd5v-Gos-Kf-HAa-GSm-YR-k-Ja.webp",
+        "ingredients": [
+          "Milk",
+          "Egg yolks",
+          "Sugar",
+          "Cornstarch",
+          "Lemon zest"
+        ],
         "cookingMethod": "1. Heat milk with lemon zest. 2. Mix egg yolks, sugar, and cornstarch. 3. Slowly add hot milk to the egg mixture while whisking. 4. Cook over medium heat until thickened. 5. Serve chilled.",
         "rating": 4.8,
         "favorite": true
@@ -93,30 +162,53 @@
     ]
   },
   {
+    "id": 954728,
     "name": "Quique Dacosta",
     "bio": "Quique Dacosta is a renowned Spanish chef known for his innovative and avant-garde approach to cuisine.",
     "yearsOfExperience": 25,
     "likes": 900,
     "numberOfRecipes": 35,
-    "picture": "quique_dacosta.jpg",
+    "picture": "https://i.ibb.co/VT6QpPM/Quique-Dacosta.jpg",
+    "banner_picture": "https://i.ibb.co/2FvDgTx/Quique-Dacosta.webp",
     "recipes": [
       {
         "name": "Sous Vide Pork Tenderloin",
-        "ingredients": ["Pork tenderloin", "Rosemary", "Garlic", "Olive oil", "Salt"],
+        "recipe_picture": "https://i.ibb.co/3fXRm5M/sous-vide-pork-tenderloin-24.jpg",
+        "ingredients": [
+          "Pork tenderloin",
+          "Rosemary",
+          "Garlic",
+          "Olive oil",
+          "Salt"
+        ],
         "cookingMethod": "1. Season pork tenderloin with salt, rosemary, and garlic. 2. Vacuum seal and cook in a water bath. 3. Sear on a hot pan with olive oil.",
         "rating": 4.6,
         "favorite": false
       },
       {
         "name": "Lobster Rice",
-        "ingredients": ["Rice", "Lobster", "Onion", "Tomato", "Fish broth"],
+        "recipe_picture": "https://i.ibb.co/DkKd8Ft/Lobster-Risotto-Low-Carbing-Asian-Cover-1.jpg",
+        "ingredients": [
+          "Rice",
+          "Lobster",
+          "Onion",
+          "Tomato",
+          "Fish broth"
+        ],
         "cookingMethod": "1. Sauté onion and tomato. 2. Add rice and cook until translucent. 3. Add fish broth and cook until rice is tender. 4. Stir in cooked lobster meat.",
         "rating": 4.9,
         "favorite": true
       },
       {
         "name": "Molten Chocolate Cake",
-        "ingredients": ["Dark chocolate", "Butter", "Eggs", "Sugar", "Flour"],
+        "recipe_picture": "https://i.ibb.co/54Yjdmj/Chocolate-Lava-Cake-7.webp",
+        "ingredients": [
+          "Dark chocolate",
+          "Butter",
+          "Eggs",
+          "Sugar",
+          "Flour"
+        ],
         "cookingMethod": "1. Melt chocolate and butter. 2. Whisk eggs and sugar. 3. Combine with melted chocolate. 4. Fold in flour. 5. Bake until the edges are set but the center is still soft.",
         "rating": 4.7,
         "favorite": true
@@ -124,61 +216,108 @@
     ]
   },
   {
+    "id": 639247,
     "name": "Jordi Cruz",
     "bio": "Jordi Cruz is a renowned Spanish chef known for his culinary creativity and innovative techniques.",
     "yearsOfExperience": 20,
     "likes": 950,
     "numberOfRecipes": 50,
-    "picture": "jordi_cruz.jpg",
+    "picture": "https://i.ibb.co/kBcb0zT/jodri-cruz-mas-masterchef-chef-thinking-heads-conferenciante.webp",
+    "banner_picture": "https://i.ibb.co/cCRRVs9/Pullmantur-Cruceros-launches-Gastrolab.jpg",
     "recipes": [
       {
         "name": "Mediterranean Salad",
-        "ingredients": ["Mixed greens", "Tomato", "Cucumber", "Olives", "Feta cheese"],
+        "recipe_picture": "https://i.ibb.co/LgTnv0w/Mediterranean-Salad-Bowl-with-Chicken-Crazy-Blonde-Life.jpg",
+        "ingredients": [
+          "Mixed greens",
+          "Tomato",
+          "Cucumber",
+          "Olives",
+          "Feta cheese"
+        ],
         "cookingMethod": "1. Toss mixed greens, tomato, cucumber, olives, and feta cheese in a bowl. 2. Drizzle with olive oil and lemon juice. 3. Season with salt and pepper. 4. Serve chilled.",
         "rating": 4.8,
         "favorite": true
       },
       {
         "name": "Grilled Salmon",
-        "ingredients": ["Salmon fillet", "Lemon", "Dill", "Olive oil", "Salt"],
+        "recipe_picture": "https://i.ibb.co/8d1Gd9r/grilled-salmon-final.jpg",
+        "ingredients": [
+          "Salmon fillet",
+          "Lemon",
+          "Dill",
+          "Olive oil",
+          "Salt"
+        ],
         "cookingMethod": "1. Season salmon fillet with salt, lemon juice, and dill. 2. Grill the salmon on medium heat, skin-side down, for 4-5 minutes per side. 3. Drizzle with olive oil before serving.",
         "rating": 4.7,
         "favorite": false
       },
       {
         "name": "Chocolate Mousse",
-        "ingredients": ["Dark chocolate", "Eggs", "Sugar", "Whipped cream", "Vanilla extract"],
+        "recipe_picture": "https://i.ibb.co/VQzB1Y1/chocolate-mousse-3.jpg",
+        "ingredients": [
+          "Dark chocolate",
+          "Eggs",
+          "Sugar",
+          "Whipped cream",
+          "Vanilla extract"
+        ],
         "cookingMethod": "1. Melt dark chocolate and let it cool slightly. 2. Separate the egg yolks from the whites. 3. Whisk the yolks with sugar until creamy. 4. Fold in the melted chocolate. 5. In a separate bowl, beat the egg whites until stiff peaks form. 6. Gently fold the whipped cream and vanilla extract into the chocolate mixture. 7. Divide the mousse into serving glasses and refrigerate for at least 2 hours before serving.",
         "rating": 4.9,
         "favorite": true
       }
     ]
   },
+
   {
+    "id": 305871,
     "name": "Martín Berasategui",
     "bio": "Martín Berasategui is a renowned Spanish chef with multiple Michelin stars, known for his culinary expertise and fine dining experiences.",
     "yearsOfExperience": 35,
     "likes": 1200,
     "numberOfRecipes": 75,
-    "picture": "martin_berasategui.jpg",
+    "picture": "https://i.ibb.co/w0TpFXg/Mart-n-Berasategui.jpg",
+    "banner_picture": "https://i.ibb.co/8scczQv/Mart-n-Berasategui-Banner.jpg",
     "recipes": [
       {
         "name": "Roasted Lamb",
-        "ingredients": ["Lamb leg", "Garlic", "Rosemary", "Olive oil", "Salt"],
+        "recipe_picture": "https://i.ibb.co/8dZyJs9/Roast-lamb-leg-2.webp",
+        "ingredients": [
+          "Lamb leg",
+          "Garlic",
+          "Rosemary",
+          "Olive oil",
+          "Salt"
+        ],
         "cookingMethod": "1. Make small incisions in the lamb leg and insert garlic and rosemary. 2. Rub the lamb leg with olive oil and season with salt. 3. Roast in the oven at 180°C (350°F) for about 1.5 to 2 hours or until the internal temperature reaches 63°C (145°F). 4. Let it rest for 10 minutes before carving.",
         "rating": 4.9,
         "favorite": false
       },
       {
         "name": "Gazpacho",
-        "ingredients": ["Tomatoes", "Cucumber", "Bell pepper", "Onion", "Garlic"],
+        "recipe_picture": "https://i.ibb.co/2Pgsy3v/Gazpacho.jpg",
+        "ingredients": [
+          "Tomatoes",
+          "Cucumber",
+          "Bell pepper",
+          "Onion",
+          "Garlic"
+        ],
         "cookingMethod": "1. Blend tomatoes, cucumber, bell pepper, onion, and garlic until smooth. 2. Strain the mixture to remove any solids. 3. Season with salt, pepper, and olive oil. 4. Serve chilled.",
         "rating": 4.7,
         "favorite": true
       },
       {
         "name": "Vanilla Panna Cotta",
-        "ingredients": ["Cream", "Sugar", "Gelatin", "Vanilla bean", "Berries"],
+        "recipe_picture": "https://i.ibb.co/WH9GGQG/vanilla-bean-panna-cotta-26199-1.jpg",
+        "ingredients": [
+          "Cream",
+          "Sugar",
+          "Gelatin",
+          "Vanilla bean",
+          "Berries"
+        ],
         "cookingMethod": "1. Heat cream, sugar, and split vanilla bean in a saucepan. 2. Bloom gelatin in cold water and add it to the cream mixture. 3. Stir until the gelatin dissolves. 4. Remove from heat and strain the mixture. 5. Pour into serving glasses and refrigerate for at least 4 hours until set. 6. Serve with fresh berries.",
         "rating": 4.8,
         "favorite": true

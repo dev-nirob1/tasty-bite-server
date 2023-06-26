@@ -1,12 +1,18 @@
 const express = require('express')
 var cors = require('cors')
 const app = express()
-const port = 5000
+const port = process.env.PORT || 5000;
+
+const chefData = require('./data/data.json')
 
 app.use(cors())
+
 app.get('/', (req, res) => {
-    res.send('Hello World! i am nirob i am a web developer amader desher nam bangladesh')
+    res.send('Hello World!')
     
+})
+app.get('/chefs', (req, res) => {
+    res.send(chefData)
 })
 
 
