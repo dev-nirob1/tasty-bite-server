@@ -15,6 +15,7 @@
     "recipes": [
       {
         "name": "Seafood Paella",
+        "id": 1,
         "recipe_picture": "https://i.ibb.co/4Nn59cV/Paella-7.jpg",
         "ingredients": [
           "Rice",
@@ -29,6 +30,7 @@
       },
       {
         "name": "Grilled Octopus",
+        "id": 2,
         "recipe_picture": "https://i.ibb.co/xS12vRp/grilled-octopus-59-2-1024x683.jpg",
         "ingredients": [
           "Octopus",
@@ -43,6 +45,7 @@
       },
       {
         "name": "Seafood Risotto",
+        "id": 3,
         "recipe_picture": "https://i.ibb.co/CtFGNC8/Seafood-Risotto.jpg",
         "ingredients": [
           "Arborio rice",
@@ -63,8 +66,8 @@
     "bio": "Paco Roncero is a renowned Spanish chef known for his innovative techniques and culinary expertise.",
     "age": 52,
     "nationality": "Spanish",
-    "description": "Paco Roncero, a talented chef hailing from Spain, has made a significant mark in the culinary world with his exceptional skills and innovative approach to gastronomy.",
-    "achievements": "Roncero is renowned for his expertise in molecular gastronomy and has received numerous accolades, including two Michelin stars for his restaurant, La Terraza del Casino in Madrid.",
+    "description": "Paco Roncero, a talented chef hailing from Spain, has made a significant mark in the culinary world with his exceptional skills and innovative approach to gastronomy.he was a judge on the reality television show MasterChef Colombia. He is the head chef of Sublimotion, known for its high cost yet unique dining experience.",
+    "achievements": "Roncero is renowned for his expertise in molecular gastronomy and has received numerous accolades, including two Michelin stars for his restaurant, La Terraza del Casino in Madrid.Roncero has won prestigious culinary awards, including the Chef L'Avenir Award 2005.",
     "yearsOfExperience": 20,
     "likes": 800,
     "numberOfRecipes": 25,
@@ -73,6 +76,7 @@
     "recipes": [
       {
         "name": "Gazpacho",
+        "id": 1,
         "recipe_picture": "https://i.ibb.co/2Pgsy3v/Gazpacho.jpg",
         "ingredients": [
           "Tomatoes",
@@ -87,6 +91,7 @@
       },
       {
         "name": "Sous Vide Lamb",
+        "id": 2,
         "recipe_picture": "https://i.ibb.co/G3YKKBm/Sous-Vide-Lamb.webp",
         "ingredients": [
           "Lamb chops",
@@ -101,6 +106,7 @@
       },
       {
         "name": "Chocolate Lava Cake",
+        "id": 3,
         "recipe_picture": "https://i.ibb.co/t32v27H/chocolate-molten-lava-cakes.jpg",
         "ingredients": [
           "Dark chocolate",
@@ -121,8 +127,8 @@
     "bio": "Carme Ruscalleda is a renowned Spanish chef known for her innovative approach to Catalan cuisine.",
     "age": 68,
     "nationality": "Spanish",
-    "description": "Carme Ruscalleda, a highly acclaimed chef from Spain, has made a profound impact on the culinary world with her culinary expertise and dedication to Catalan cuisine.",
-    "achievements": "Ruscalleda has been awarded a total of seven Michelin stars throughout her career, making her one of the most decorated female chefs in the world.",
+    "description": "Carme Ruscalleda, a highly acclaimed chef from Spain, has made a profound impact on the culinary world with her culinary expertise and dedication to Catalan cuisine.Carme Ruscalleda is one of the most awarded female chefs in the world and best ambassador of Catalan gastronomy.",
+    "achievements": "Ruscalleda has been awarded a total of seven Michelin stars throughout her career, making her one of the most decorated female chefs in the world. Her talent and authority has been recognised with a total of seven Michelin stars",
     "yearsOfExperience": 30,
     "likes": 1200,
     "numberOfRecipes": 40,
@@ -131,6 +137,7 @@
     "recipes": [
       {
         "name": "Catalan Cream",
+        "id": 1,
         "recipe_picture": "https://i.ibb.co/JnYtVBp/Catalan-Cream.jpg",
         "ingredients": [
           "Milk",
@@ -145,6 +152,7 @@
       },
       {
         "name": "Paella",
+        "id": 2,
         "recipe_picture": "https://i.ibb.co/QcD4zkq/84137-easy-paella.jpg",
         "ingredients": [
           "Rice",
@@ -159,6 +167,7 @@
       },
       {
         "name": "Crema Catalana",
+        "id": 3,
         "recipe_picture": "https://i.ibb.co/rfJdYkR/0-Gd5v-Gos-Kf-HAa-GSm-YR-k-Ja.webp",
         "ingredients": [
           "Milk",
@@ -179,7 +188,7 @@
     "bio": "Quique Dacosta is a renowned Spanish chef known for his innovative and avant-garde approach to cuisine.",
     "age": 49,
     "nationality": "Spanish",
-    "description": "Quique Dacosta, a renowned Spanish chef, is celebrated for his avant-garde culinary creations and his innovative approach to traditional Mediterranean cuisine.",
+    "description": "Quique Dacosta, a renowned Spanish chef, is celebrated for his avant-garde culinary creations and his innovative approach to traditional Mediterranean cuisine. Three Michelin star chef Quique Dacosta prepares his signature dish of Almond Nougat from his eponymous restaurant in Dénia, Spain.",
     "achievements": "Dacosta holds a total of five Michelin stars, with his flagship restaurant, Quique Dacosta Restaurante, in Denia, Spain, earning three Michelin stars. He is internationally recognized for his mastery of flavors, textures, and presentations that push the boundaries of gastronomy.",
     "yearsOfExperience": 25,
     "likes": 900,
@@ -189,6 +198,7 @@
     "recipes": [
       {
         "name": "Sous Vide Pork Tenderloin",
+        "id": 1,
         "recipe_picture": "https://i.ibb.co/3fXRm5M/sous-vide-pork-tenderloin-24.jpg",
         "ingredients": [
           "Pork tenderloin",
@@ -203,6 +213,7 @@
       },
       {
         "name": "Lobster Rice",
+        "id": 2,
         "recipe_picture": "https://i.ibb.co/DkKd8Ft/Lobster-Risotto-Low-Carbing-Asian-Cover-1.jpg",
         "ingredients": [
           "Rice",
@@ -217,6 +228,7 @@
       },
       {
         "name": "Molten Chocolate Cake",
+        "id": 3,
         "recipe_picture": "https://i.ibb.co/54Yjdmj/Chocolate-Lava-Cake-7.webp",
         "ingredients": [
           "Dark chocolate",
@@ -247,6 +259,7 @@
     "recipes": [
       {
         "name": "Mediterranean Salad",
+        "id": 1,
         "recipe_picture": "https://i.ibb.co/LgTnv0w/Mediterranean-Salad-Bowl-with-Chicken-Crazy-Blonde-Life.jpg",
         "ingredients": [
           "Mixed greens",
@@ -261,6 +274,7 @@
       },
       {
         "name": "Grilled Salmon",
+        "id": 2,
         "recipe_picture": "https://i.ibb.co/8d1Gd9r/grilled-salmon-final.jpg",
         "ingredients": [
           "Salmon fillet",
@@ -275,6 +289,7 @@
       },
       {
         "name": "Chocolate Mousse",
+        "id": 3,
         "recipe_picture": "https://i.ibb.co/VQzB1Y1/chocolate-mousse-3.jpg",
         "ingredients": [
           "Dark chocolate",
@@ -296,7 +311,7 @@
     "age": 61,
     "nationality": "Spanish",
     "description": "Martín Berasategui, a culinary maestro from Spain, has garnered international acclaim for his exceptional skills and unwavering commitment to the art of gastronomy. With a career spanning several decades, Berasategui has become a true icon of fine dining, enchanting palates around the world with his remarkable culinary creations.",
-    "achievements": "Berasategui holds an astounding total of 12 Michelin stars, making him one of the most decorated chefs in the world. His eponymous restaurant, Martín Berasategui, located in Lasarte-Oria, Spain, boasts three Michelin stars and has consistently been recognized as one of the finest dining establishments on the globe. His meticulous attention to detail, culinary mastery, and relentless pursuit of perfection have solidified his status as a living legend in the realm of haute cuisine.",
+    "achievements": "Berasategui holds an astounding total of 12 Michelin stars, making him one of the most decorated chefs in the world. His eponymous restaurant, Martín Berasategui, located in Lasarte-Oria, Spain, boasts three Michelin stars.",
     "yearsOfExperience": 35,
     "likes": 1200,
     "numberOfRecipes": 75,
@@ -305,6 +320,7 @@
     "recipes": [
       {
         "name": "Roasted Lamb",
+        "id": 1,
         "recipe_picture": "https://i.ibb.co/8dZyJs9/Roast-lamb-leg-2.webp",
         "ingredients": [
           "Lamb leg",
@@ -319,6 +335,7 @@
       },
       {
         "name": "Gazpacho",
+        "id": 2,
         "recipe_picture": "https://i.ibb.co/2Pgsy3v/Gazpacho.jpg",
         "ingredients": [
           "Tomatoes",
@@ -333,6 +350,7 @@
       },
       {
         "name": "Vanilla Panna Cotta",
+        "id": 3,
         "recipe_picture": "https://i.ibb.co/WH9GGQG/vanilla-bean-panna-cotta-26199-1.jpg",
         "ingredients": [
           "Cream",
