@@ -1,0 +1,22 @@
+ [
+    {
+      "id": 1,
+      "question": "Differences between Uncontrolled and Controlled Components in React",
+      "answer": "Uncontrolled components: These components manage their state internally, without relying on React state. Typically, they use the DOM's own state to control their behavior. They are often used when you need direct access to form data without explicit control or validation.Controlled components: These components rely on React state to manage their value and behavior. The component's value is controlled by React, and any changes to it are handled through event handlers. Controlled components provide more control and validation, making them suitable for scenarios where you need to enforce specific rules and perform actions based on the component's state"
+    },
+    {
+      "id": 2,
+      "question": "What is a custom hook, and why will you create a custom hook?",
+      "answer": "A custom hook in React is a JavaScript function that starts with the 'use' prefix and allows you to reuse stateful logic across different components. Custom hooks enable you to extract common functionality into reusable units, making your code more modular and easier to maintain. You would create a custom hook when you find yourself duplicating stateful logic in multiple components, promoting code reusability and abstraction."
+    },
+    {
+      "id": 3,
+      "question": "Difference between Node.js and Express.js",
+      "answer": "Node.js is a JavaScript runtime built on the Chrome V8 engine. It allows you to execute JavaScript code outside of a web browser, enabling server-side development. Node.js provides a runtime environment that allows you to run JavaScript on the server, enabling you to build backend applications. It provides a set of built-in modules and APIs that allow you to perform various server-side operations, such as file system manipulation, network communication, and more. Express.js is a web application framework for Node.js. It provides a set of features and tools to simplify the development of web applications and APIs. Express.js builds on top of Node.js and adds an easy-to-use API for routing, middleware, request handling, and templating. It simplifies tasks such as defining routes, parsing incoming requests, handling cookies, and serving static files."
+    },
+    {
+      "id": 4,
+      "question": "How to validate React props using PropTypes",
+      "answer": "To vallidate react props using PropTypes Import the PropTypes module in your React component file. Define the prop types for your component by adding a static propTypes property to your component class. Inside this property, you can specify the types and requirements for each prop. Whenever you use the component, React will automatically check if the props passed to the component meet the specified PropTypes. If any prop doesn't match the defined type or is missing, React will issue a warning in the console."
+    }
+  ]
